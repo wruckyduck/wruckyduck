@@ -3,9 +3,6 @@
 -  I am an incoming consultant at McKinsey
 -  I’m learning the skillet of a full stack developer, because the future belongs to those who build
 
-### Shipping Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harrywruck&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
-
 ### 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
