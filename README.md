@@ -1,6 +1,5 @@
 ## Heya! 👋
 
--  I am an incoming consultant at McKinsey
 -  I’m learning the skillet of a full stack developer, because the future belongs to those who build
 
 ### 🛠️ Tech Stack
